@@ -1,5 +1,5 @@
-Link dowload Git: 
+Link dowload Git: https://git-scm.com/download/win
 
-Link download VsCode:
+Link download VsCode: https://code.visualstudio.com/Download
 
 **** Adicionar mais conforme o andamento do curso ***
